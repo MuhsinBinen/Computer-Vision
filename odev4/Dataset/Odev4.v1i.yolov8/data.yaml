@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Cekirdek', 'Kayisi', 'Yaprak']
+
+roboflow:
+  workspace: muhsin-binen
+  project: odev4
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/muhsin-binen/odev4/dataset/1
