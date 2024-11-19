@@ -1,0 +1,15 @@
+names:
+- Nazar-Boncugu
+- Red Mi Note 8 Pro
+- Silgi
+- Termos
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: objectdetectionproject-lrctu
+  url: https://universe.roboflow.com/computervisionprojects-eapsv/objectdetectionproject-lrctu/dataset/2
+  version: 2
+  workspace: computervisionprojects-eapsv
+test: ../test/images
+train: ../train/images
+val: ../valid/images
